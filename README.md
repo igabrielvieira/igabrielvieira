@@ -4,7 +4,8 @@
   
   <p align="center">
     <em>Full-stack Developer</em> <br /> JavaScript | React | Node <br />
-    Estudante de Sistemas de Informação.
+    Estudante de Sistemas de Informação. <br /> <br />
+    Acesse aqui meu portfolio: <a href="https://gabrielvieira.com" target="_blank">gabrielvieira.com</a>
   </p>
 
   ##
