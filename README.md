@@ -5,7 +5,6 @@
   <p align="center">
     <em>Front-end Developer</em> <br /> JavaScript | React | TypeScript | Node <br />
     Estudante de Sistemas de Informação. <br /> <br />
-    Acesse aqui meu portfolio: <a href="https://gabrielvieira.com" target="_blank">gabrielvieira.com</a>
   </p>
 
   ##
