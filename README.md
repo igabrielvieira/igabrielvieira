@@ -3,7 +3,7 @@
   ### Olá, eu sou o Gabriel!
   
   <p align="center">
-    <em>Front-end Developer</em> <br /> JavaScript | React | TypeScript | Node <br />
+    <em>Full-stack Developer</em> <br /> JavaScript | React | TypeScript | Node <br />
     Estudante de Sistemas de Informação. <br /> <br />
   </p>
 
